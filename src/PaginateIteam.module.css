@@ -1,0 +1,17 @@
+.paginate{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+}
+
+a{
+    padding:0.85rem;
+    background-color: gold;
+    color: black;
+    border-radius: 10px;
+}
+li{
+    margin: 1rem;
+}
